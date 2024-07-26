@@ -1,12 +1,5 @@
 # Multi-label defect detection for Solar Cells from Electroluminescence images of the modules, using Deep Learning
 
-### By [Soroosh Tayebi Arasteh](https://github.com/tayebiarasteh/) 
-
-
-
-This project is a part of the programming exercises of the Deep Learning course (WS 2019-20, Prof. Dr.-Ing. habil. Andreas Maier) offered by the [Pattern Recognition Lab (LME)](https://lme.tf.fau.de/) of the [Computer Science Department](https://www.informatik.uni-erlangen.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.eu/).
-
-
 Introduction
 ------
 Solar modules are composed of many solar cells. The solar cells are subject to degradation, causing many different types of defects. Defects may occur during transportation or installation of modules as well as during operation, for example due to wind, snow load or hail. Many of the defect types can be found by visual inspection. A common approach is to take electroluminescense images of the modules. To this end, a current is applied to the module, causing the silicon layer to emit light in the near infrared spectrum. This light is then captured by specialized cameras.
